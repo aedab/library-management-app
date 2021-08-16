@@ -1,0 +1,11 @@
+La Legion Perdida,8408151088,Santiago Posteguillo,ADVENTURE,null
+Preludio a la Fundacion,8401322642,Isaac Asimov,TRAVEL,null
+Fahrenheit 451,6053751677,Ray Bradbury,MYSTERY,null
+Dracula,9781785945168,Bram Stoker,ADVENTURE,null
+IT,9789851807822,Stephen King,HORROR,null
+The C++ Programming Language,9780201889543,Bjarne Stroutstrup,SCIENCE,null
+La divina comedia,9507544429,Alighieri Dante,POETRY,null
+Don Quijote de la Mancha,8423349640,Miguel de Cervantes,FANTASY,null
+Frakenstein,846630407,Mary Shelley,BIOGRAPHY,null
+La teixidora de la mort,8421628844,Concha Lopez Narvaez,HORROR,null
+MOM,1234567,Boss Gabriel,NONE,null
